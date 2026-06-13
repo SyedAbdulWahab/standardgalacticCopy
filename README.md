@@ -85,6 +85,36 @@ Taken together, these projects treat the user's actions as part of the algorithm
 
 # Work in Progress
 
+[Why Distinctions Survive](https://standardgalactic.github.io/linguistics/why_distinctions_survive.pdf)
+
+* [The Geometry of Reasoning](https://standardgalactic.github.io/linguistics/The_Geometry_of_Reasoning.pdf)
+
+[The Persistence Hierarchy](https://standardgalactic.github.io/linguistics/persistence_hierarchy.pdf)
+
+* [The Hidden Architecture of Adjectives](https://standardgalactic.github.io/linguistics/Adjective_Architecture.pdf)
+
+[Substance and Accident](https://standardgalactic.github.io/linguistics/substance_and_accident.pdf)
+
+* [Geometric Admissibility](https://standardgalactic.github.io/linguistics/Geometric_Admissibility.pdf)
+
+* [Reachability Theory](https://standardgalactic.github.io/linguistics/Reachability_Theory.pdf)
+
+[Distinction Engine](https://standardgalactic.github.io/linguistics/) — *Audio Overviews*
+
+[Reality Is What Can Be Reached](https://standardgalactic.github.io/research-projects/philosophy/reality_reachability.pdf)
+
+* [The Reachability Ontology](https://standardgalactic.github.io/research-projects/philosophy/The_Reachability_Ontology.pdf)
+
+[Astrophysics After the Uniform Object](https://standardgalactic.github.io/research-projects/philosophy/astrophysics_after_uniform_object.pdf)
+
+* [Beyond the Uniform Object](https://standardgalactic.github.io/research-projects/philosophy/Beyond_the_Uniform_Object.pdf)
+
+[Reconstruction and Distinction](https://standardgalactic.github.io/research-projects/philosophy/reconstruction_and_distinction.pdf)
+
+* [The Reconstruction Imperative](https://standardgalactic.github.io/research-projects/philosophy/The_Reconstruction_Imperative-notes.pdf)
+
+[Latent Structure](https://standardgalactic.github.io/research-projects/philosophy) — *Audio Visualizers*
+
 [Frozen Processes](https://standardgalactic.github.io/playfloor/reachability/frozen_processes.pdf)
 
 A process-primary framework arguing that many things we treat as fundamental entities are actually stable residues of trajectories moving through spaces of possibility. The central question is shifted from "What exists?" to "What remains reachable, and under what conditions?"
@@ -315,6 +345,22 @@ A synthesis of computational mechanics, predictive inference, and reachability t
 
 [Audio Overviews](https://standardgalactic.github.io/playfloor/coordinates/)
 
+[The Eight-Letter Keyboard](https://standardgalactic.github.io/research-projects/admissibility-lab/eight_letter_keyboard.pdf)
+
+* [The Eight-Letter Motor Phonology](https://standardgalactic.github.io/research-projects/admissibility-lab/The_Eight_Letter_Motor_Phonology.pdf)
+
+[Motor Phonology and Symbolic Reachability](https://standardgalactic.github.io/research-projects/admissibility-lab/motor_phonology.pdf)
+
+* [The Motor Manifold](https://standardgalactic.github.io/research-projects/admissibility-lab/The_Motor_Manifold.pdf)
+
+* [The Reconstruction Imperative](https://standardgalactic.github.io/research-projects/admissibility-lab/The_Reconstruction_Imperative-extended.pdf)
+
+[Continuations Before Objects](https://standardgalactic.github.io/research-projects/admissibility-lab/continuations_before_objects.pdf)
+
+* [Reachability Geometry](https://standardgalactic.github.io/research-projects/admissibility-lab/Reachability_Geometry.pdf)
+
+[Audio Overviews](https://standardgalactic.github.io/research-projects/admissibility-lab/)
+
 # Distinguishability Geometry
 
 [Activation Manifolds as Admissibility Fields](https://standardgalactic.github.io/playfloor/working/admissibility_fields.pdf)
@@ -331,6 +377,8 @@ A synthesis of computational mechanics, predictive inference, and reachability t
 
 [Programs as Histories](https://standardgalactic.github.io/playfloor/working/programs-as-histories.pdf)
 
+* [Spherepop Algebra](https://standardgalactic.github.io/memnet/derivatives/spherepop-algebra.pdf) — *Computer Science*
+
 * [The Spherepop Inversion](https://standardgalactic.github.io/playfloor/working/The_Spherepop_Inversion.pdf)
 
 [Distinguishability Geometry](https://standardgalactic.github.io/playfloor/working/distinguishability_geometry.pdf)
@@ -345,6 +393,7 @@ A synthesis of computational mechanics, predictive inference, and reachability t
 
 [The Paradox of Precaution](https://standardgalactic.github.io/kitbash/paradox-of-precaution.pdf)
 
+<!--
 [Broken Tools for a Breaking World](https://standardgalactic.github.io/antivenom/framework/fragility-metacrisis.pdf)
 
 * [Notes](https://standardgalactic.github.io/antivenom/framework/Broken_Tools_for_a_Breaking_World.pdf)
@@ -358,7 +407,7 @@ A synthesis of computational mechanics, predictive inference, and reachability t
 [The Meritocracy That Wasn't](https://standardgalactic.github.io/antivenom/sociology/remote_work.pdf)
 
 * [Why Your Remote Job Applications Disappear](https://standardgalactic.github.io/antivenom/sociology/) — *Audio Overview*
-
+-->
 [Proxy Permanence Failure](https://standardgalactic.github.io/antivenom/persistence/proxy_permanence_failure.pdf)
 
 * [Beyond the Carbon Ledger](https://standardgalactic.github.io/antivenom/persistence/Beyond_the_Carbon_Ledger.pdf)
@@ -375,11 +424,12 @@ A synthesis of computational mechanics, predictive inference, and reachability t
 
 * [Audio Overview](https://standardgalactic.github.io/workspace/processing/)
 
+<!--
 [Abundance Without Distribution](https://standardgalactic.github.io/userspace/labor_singularity.pdf) — *Labor Singularity*
 
 * [Audio Overview](https://standardgalactic.github.io/userspace/futurism/)
+-->
 
-<!--
 [The Moon Should Not Be a Computer](https://standardgalactic.github.io/computation/moon-not-computer.pdf)
 
 [Xylomorphic Computation](https://standardgalactic.github.io/computation/xylomorphic_computation.pdf)
@@ -387,7 +437,8 @@ A synthesis of computational mechanics, predictive inference, and reachability t
 * [Why AI Servers Fail in Space](https://standardgalactic.github.io/computation/?moon) – *Audio Overview*
 
 * [Why Data Centers Must Mimic Trees](https://standardgalactic.github.io/computation/?trees) – *Audio Overview*
--->
+
+<!--
 [The Monetization of Redundancy](https://standardgalactic.github.io/antivenom/Monetization-of-Redundancy.pdf)
 
 * [Audio Overview](https://standardgalactic.github.io/antivenom/processing/)
@@ -403,6 +454,7 @@ A synthesis of computational mechanics, predictive inference, and reachability t
 [The Coordinate-System Error](https://standardgalactic.github.io/alphabet/attention-essay.pdf)
 
 [The Hollow Network](https://standardgalactic.github.io/antivenom/resources/synthetic_sociality_v3-2.pdf) 
+-->
 
 [The Expiatory Gap](https://standardgalactic.github.io/alignment/The%20Expiatory%20Gap.pdf)
 
@@ -412,12 +464,13 @@ A synthesis of computational mechanics, predictive inference, and reachability t
 
 [The Ecology of Neoteny](https://standardgalactic.github.io/alphabet/The%20Ecology%20of%20Neoteny.pdf)
 
+<!--
 [Spectacle Runtime](https://standardgalactic.github.io/alphabet/Spectacle%20Runtime.pdf)
 
 [Distributed Centrality](https://standardgalactic.github.io/library/Distributed%20Centrality.pdf)
 
 * [Audio Overview](https://standardgalactic.github.io/library/projects/?track=gravity)
-
+-->
 [The Polemic Debt](https://standardgalactic.github.io/antivenom/The%20Polemic%20Debt.pdf)
 
 * [Audio Overview](https://standardgalactic.github.io/antivenom/working/)
@@ -428,13 +481,12 @@ A synthesis of computational mechanics, predictive inference, and reachability t
 [The Stack Capture Race](https://standardgalactic.github.io/library/The%20Stack%20Capture%20Race.pdf)
 <!--
 [Personal Superintelligence](https://standardgalactic.github.io/research-projects/Personal%20Superintelligence.pdf)
--->
 
 [Collective Intelligence Under Constraint](https://standardgalactic.github.io/research-projects/Collective%20Intelligence%20Under%20Constraint.pdf)
 
-<!--
 [Ephemeral Feeds](https://standardgalactic.github.io/kitbash/Ephemeral%20Feeds.pdf)
 -->
+
 [Scope Memeplexes](https://standardgalactic.github.io/standardgalactic/Scope%20Memeplexes.pdf)
 
 <!--
@@ -454,9 +506,9 @@ A synthesis of computational mechanics, predictive inference, and reachability t
 -->
 [Against Namespace Laundering](https://standardgalactic.github.io/antivenom/Against%20Namespace%20Laundering.pdf)
 
+<!--
 [Culture and Structural Power](https://standardgalactic.github.io/antivenom/Culture%20and%20Structural%20Power.pdf)
 
-<!--
 [When Engagement Stops Pointing](https://standardgalactic.github.io/antivenom/When%20Engagement%20Stops%20Pointing.pdf)
 
 [Aspirational Exhaust](https://standardgalactic.github.io/antivenom/Aspirational%20Exhaust.pdf)
@@ -469,7 +521,6 @@ A synthesis of computational mechanics, predictive inference, and reachability t
 
 [The Assumption of Surplus](https://standardgalactic.github.io/antivenom/The%20Assumption%20of%20Surplus.pdf)
 -->
-
 [Throwing the Game](https://standardgalactic.github.io/spherepop/Throwing%20the%20Game.pdf)
 
 [Against the Extinction Thesis](https://standardgalactic.github.io/antivenom/Against%20the%20Extinction%20Thesis.pdf)
@@ -493,6 +544,7 @@ A synthesis of computational mechanics, predictive inference, and reachability t
 
 * [Audio Overview](https://standardgalactic.github.io/antivenom/philosophy/)
 
+<!--
 # Yarncrawler
 
 [Irreversibility and the Ontology of Mind](https://standardgalactic.github.io/yarncrawler/irreversibility_ontology_mind.pdf) 
@@ -503,12 +555,10 @@ A synthesis of computational mechanics, predictive inference, and reachability t
 
 * [Audio Overview](https://standardgalactic.github.io/yarncrawler/working/)
 
-
 [World-State Reconstruction](https://standardgalactic.github.io/yarncrawler/World-State%20Reconstruction.pdf)
 
 * [Audio Overview](https://standardgalactic.github.io/yarncrawler/introduction/)
 
-<!--
 [Yarncrawler in Action](https://standardgalactic.github.io/yarncrawler/Yarncrawler%20in%20Action.pdf)
 
 # Polyxan and Plenumhub
@@ -543,6 +593,7 @@ A synthesis of computational mechanics, predictive inference, and reachability t
 
 [Markedness and Capability](https://standardgalactic.github.io/standardgalactic/epistemology/markedness_capability.pdf)
 
+<!--
 [Manufacturing Credulity](https://standardgalactic.github.io/standardgalactic/epistemology/manufacturing_credulity.pdf)
 
 [Selection Without Design](https://standardgalactic.github.io/standardgalactic/epistemology/selection_without_design.pdf)
@@ -554,7 +605,7 @@ A synthesis of computational mechanics, predictive inference, and reachability t
 * [Synthetic Rigor](https://standardgalactic.github.io/alphabet/epistemology/Synthetic_Rigor.pdf) — *Notes*
 
 * [Why AI Text Feels Deceptively Profound](https://standardgalactic.github.io/alphabet/epistemology/) — *Audio Overview*
-
+-->
 # Mechanistic Frameworks
 
 [From Synchrony to Structure](https://standardgalactic.github.io/playfloor/epistemology/from_synchrony_to_structure.pdf)
@@ -567,6 +618,7 @@ A synthesis of computational mechanics, predictive inference, and reachability t
 
 [Never Predict Noise](https://standardgalactic.github.io/alphabet/Never-Predict-Noise.pdf)
 
+<!--
 * [Why True Intelligence Refuses Noise](https://standardgalactic.github.io/alphabet/physics/working/) — *Audio Overview*
 
 [Constraint-First Gauge Gravity](https://standardgalactic.github.io/alphabet/physics/gauge-gravity.pdf)
@@ -594,7 +646,7 @@ A synthesis of computational mechanics, predictive inference, and reachability t
 [Kernel Operators, Memory, and Field-Theoretic Dynamics](https://standardgalactic.github.io/calculus/kernel-memory.pdf)
 
 * [Universal Memory Monitor](https://standardgalactic.github.io/calculus/)
-<!--
+
 [From Field Dynamics to Extractive Systems](https://standardgalactic.github.io/standardgalactic/field_dynamics.pdf)
 
 * [The Physics of Toxic Digital Platforms](https://standardgalactic.github.io/standardgalactic/research/) — *Audio Overview*
@@ -604,6 +656,7 @@ A synthesis of computational mechanics, predictive inference, and reachability t
 
 * [Why Great Ideas Are Mathematically Inevitable](https://standardgalactic.github.io/standardgalactic/research/notes/) — *Audio Overview*
 
+<!--
 [Participation without Guarantee](https://standardgalactic.github.io/antivenom/economics/participation_without_guarantee.pdf)
 
 [The Extraction Attractor](https://standardgalactic.github.io/antivenom/economics/structural_convergence.pdf)
@@ -613,7 +666,7 @@ A synthesis of computational mechanics, predictive inference, and reachability t
 [The Entropy of Austerity](https://standardgalactic.github.io/spherepop/entropy_of_austerity.pdf)
 
 * [Audio Overview](https://standardgalactic.github.io/spherepop/dynamics/)
-
+-->
 [Trajectory Aware Recursive Tiling with Annotated Noise](https://standardgalactic.github.io/TARTAN/tartan.pdf)
 
 * [Concrete Cracks Analysis](https://standardgalactic.github.io/TARTAN/music/concrete_cracks_analysis.pdf)
@@ -736,7 +789,7 @@ An exploration of difficulty, abstraction, and intelligence that treats cognitio
 
 [The Ergonomics of Prediction](https://standardgalactic.github.io/research-projects/The%20Ergonomics%20of%20Prediction.pdf)
 
-[Axioms for a Falling Universe](https://standardgalactic.github.io/alphabet/Axioms%20for%20a%20Falling%20Universe.pdf)
+[Axioms for a Falling Universe](https://standardgalactic.github.io/alphabet/Axioms%20for%20a%20Falling%20Universe.pdf) -- *Early Draft*
 
 [The Fall of Space](https://flyxion.github.io/flyxion/rsvp/The%20Fall%20of%20Space.pdf)
 
@@ -749,6 +802,7 @@ An exploration of difficulty, abstraction, and intelligence that treats cognitio
 
 * [Audio Overview](https://standardgalactic.github.io/alphabet/projects/)
 
+<!--
 [Fossil Manifolds and Mediated Extraction](https://standardgalactic.github.io/workspace/cosmology/fossil_manifolds.pdf)
 
 * [The Inverse Accessibility Paradox](https://standardgalactic.github.io/workspace/cosmology/The_Inverse_Accessibility_Paradox.pdf) — *Notes*
@@ -757,7 +811,6 @@ An exploration of difficulty, abstraction, and intelligence that treats cognitio
 
 * [The Uncorrupted Cosmic Fossil](https://standardgalactic.github.io/workspace/cosmology/) — *Audio Overview*
 
-<!--
 [Everlasting Redshift](https://standardgalactic.github.io/kitbash/Everlasting%20Redshift.pdf)
 -->
 [Scalar Irruption via Entropic Differential](https://standardgalactic.github.io/workspace/Scalar%20Irruption%20via%20Entropic%20Differential.pdf)
@@ -770,6 +823,22 @@ An exploration of difficulty, abstraction, and intelligence that treats cognitio
 [Bootstrapping Utopia](https://standardgalactic.github.io/alphabet/Bootstrapping%20Utopia.pdf) — *Draft*
 
 # MEMNET
+
+[The Geometry of Admissibility](https://standardgalactic.github.io/memnet/derivatives/geometry-of-admissibility.pdf)
+
+[Against Latent Fundamentalism](https://standardgalactic.github.io/memnet/derivatives/against-latent-fundamentalism.pdf)
+
+* [Academic](https://standardgalactic.github.io/memnet/derivatives/against-latent-fundamentalism-academic.pdf)
+
+* [What Any Mind Must Preserve](https://standardgalactic.github.io/memnet/derivatives/against-latent-fundamentalism-cogsci.pdf) — *Cognitive Science*
+
+* [The Suture That Will Not Hold](https://standardgalactic.github.io/memnet/derivatives/suture-theory.pdf) — *Critical Theory*
+
+* [Admissibility Distortion](https://standardgalactic.github.io/memnet/derivatives/admissibility-distortion.pdf) — *Mechatronics*
+
+* [Nine Parsecs](https://standardgalactic.github.io/memnet/derivatives/nine_parsecs.pdf) — *Screenplay*
+
+[Reachable History](https://standardgalactic.github.io/memnet/derivatives/) — *Audio OVerviews*
 
 [The Admissibility Principle](https://standardgalactic.github.io/memnet/framework/admissibility_principle.pdf)
 
@@ -909,6 +978,10 @@ Escape Velocity: Austerity, Field Dynamics, and the Endogenous Regulation of Tra
 -->
 
 # Just for Fun
+
+[The Geometry of Control](https://standardgalactic.github.io/kitbash/paperbot/geometry-of-control.pdf)
+
+* [Graphic Novel](https://standardgalactic.github.io/kitbash/paperbot/geometry-of-control-comic.pdf)
 
 [Recursive Containment and Deferred Closure](https://standardgalactic.github.io/spherepop/dynamics/spherepop_scope_dynamics.pdf)
 
